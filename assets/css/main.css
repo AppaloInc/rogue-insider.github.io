@@ -302,7 +302,7 @@ textarea:-ms-input-placeholder, select:-ms-input-placeholder {
     color: #000;
 }
 
-input:not([type="button"]):not([type="submit"]):not([type="radio"]):not([type="checkbox"]):not([type="color"]):focus,
+/* input:not([type="button"]):not([type="submit"]):not([type="radio"]):not([type="checkbox"]):not([type="color"]):focus,
 textarea:focus, select:focus {
     border: 1px solid red;
 }
@@ -326,7 +326,7 @@ textarea:focus:-moz-placeholder, select:focus:-moz-placeholder {
 input:not([type="button"]):not([type="submit"]):not([type="radio"]):not([type="checkbox"]):not([type="color"]):focus:-ms-input-placeholder,
 textarea:focus:-ms-input-placeholder, select:focus:-ms-input-placeholder {
     color: blue;
-}
+} */
 
 input:not([type="button"]):not([type="submit"]):not([type="radio"]):not([type="checkbox"]):not([type="color"])[disabled],
 textarea[disabled], select[disabled] {
